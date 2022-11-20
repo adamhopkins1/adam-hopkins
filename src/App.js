@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Carousel from './components/Carousel';
+import News from './components/News';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Carousel />
+      <News />
     </div>
     </>
   );
