@@ -264,7 +264,7 @@ function News() {
             <div className="lg:flex">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://www.videogameschronicle.com/files/2019/09/apple-event-1024x571.jpg"
                 alt=""
               />
 
@@ -273,7 +273,7 @@ function News() {
                   href="#"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  What do you want to know about Blockchane
+                  Apple's upcoming VR Headset will contain AR/VR hybrid tech to support Metaworlds and Augmented Reality. 
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
