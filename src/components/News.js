@@ -6,7 +6,7 @@ function News() {
       <section className="bg-white dark:bg-gray-900">
         <div className="container px-6 py-10 mx-auto">
           <h1 className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
-            From The New Blog
+            From The New Blog:
           </h1>
           <div className="container px-10 py-7 mx-auto">
           <h3 className="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">Gaming industry news
@@ -38,21 +38,21 @@ function News() {
             <div className="lg:flex">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://gameworldobserver.com/wp-content/uploads/2022/11/blizzard-netease-china.jpg"
+                src="https://www.videogameschronicle.com/files/2022/11/1848bc1c7905104c1.jpg"
                 alt=""
               />
 
               <div className="flex flex-col justify-between py-6 lg:mx-6">
                 <a
-                  href="https://www.gamesindustry.biz/blizzard-and-netease-end-14-year-partnership-everything-you-need-to-know"
+                  href="https://www.videogameschronicle.com/news/team-ninja-reportedly-confirms-ninja-gaiden-and-dead-or-alive-reboot-plans/"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  Blizzard Entertainment and Netease Games dissovlve games partnership in China.
-                  By:James Batchelor (GI.BIZ)
+                  Team Ninja Seemingly Confirms New Ninja Gaiden and Dead or Alive games are in development for Next-Gen Release at G-Star Busan event.
+                  By:Andy Robinson (Video Games Chronicle)
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
-                  On: 17 November 2022
+                  On: 20 November 2022
                 </span>
               </div>
             </div>
@@ -82,20 +82,21 @@ function News() {
             <div className="lg:flex">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://images.unsplash.com/photo-1530099486328-e021101a494a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1547&q=80"
+                src="https://www.videogameschronicle.com/files/2022/11/fallout-new-vegas-1024x576.jpg"
                 alt=""
               />
 
               <div className="flex flex-col justify-between py-6 lg:mx-6">
                 <a
-                  href="#"
+                  href="https://www.videogameschronicle.com/news/the-director-of-fallout-new-vegas-would-be-open-to-working-on-the-series-again/"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  All the features you want to know
+                  Obsidian Entertainment's Josh Sawyer expresses interest in working on a Fallout:New Vegas Follow-up.
+                  By:Tom Ivan (Video Games Chronicle)
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
-                  On: 30 September 2020
+                  On: 18 November 2022
                 </span>
               </div>
             </div>
@@ -125,7 +126,7 @@ function News() {
             <div className="lg:flex">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://www.videogameschronicle.com/files/2022/11/Battlefield-2042-Season-3-Escalation-h-1024x576.jpg"
                 alt=""
               />
 
@@ -134,11 +135,12 @@ function News() {
                   href="#"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  What do you want to know about Blockchane
+                  Battlefield 2042 is confirmed to be arriving on Xbox Game Pass on November 22nd With the release of the Season 3 update.
+                  By:Tom Ivan (Video Games Chronicle)
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
-                  On: 20 October 2019
+                  On: 17 November 2022
                 </span>
               </div>
             </div>
@@ -218,7 +220,7 @@ function News() {
             <div className="lg:flex">
               <img
                 className="object-cover w-full h-56 rounded-lg lg:w-64"
-                src="https://images.unsplash.com/photo-1530099486328-e021101a494a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1547&q=80"
+                src="https://www.videogameschronicle.com/files/2020/12/Perfect-Dark-1-1024x553.jpg"
                 alt=""
               />
 
@@ -227,11 +229,12 @@ function News() {
                   href="#"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  All the features you want to know
+                 Crystal Dynamics Gives Update on Perfect Dark Reboot says the game development is going "extremely well" according to Owner Embracer Group.
+                 By:Tom Ivan (Video Games Chronicle)
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
-                  On: 30 September 2020
+                  On: 17 November 2022
                 </span>
               </div>
             </div>
