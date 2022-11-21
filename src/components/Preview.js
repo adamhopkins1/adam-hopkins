@@ -209,6 +209,197 @@ function Preview() {
               </div>
             </div>
           </div>
+
+          {/* 2nd Batch of Previews */}
+          <div className="flex flex-wrap">
+                <div className="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                  <div className="flex flex-col">
+                    <a href="#" className="mx-auto">
+                      <img
+                        className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                        src="https://cdn.mos.cms.futurecdn.net/VEbTZfs6TCGQonBeWHhxTW-1200-80.jpg.webp"
+                      />
+                    </a>
+
+                    <div className="text-center mt-6">
+                      <h1 className="text-gray-900 text-xl font-bold mb-1">
+                      Forza Motorsport  |  Spring 2023
+                      </h1>
+
+                      <div className="text-gray-700 font-light mb-2">
+                      Forza Motorsport is set to take the realistic racer into the next-generation. Built to make the most of the power of the Xbox Series X/S, Forza Motorsport features advanced car damage to add to its sense of immersion and simulation along with overhauled physics, ray tracing, and a time of day system. Turn 10 studio looks like it's setting out to create the most technically advanced racing game in the Motorsport series, with some throwbacks long-time fans will appreciate such as the return of the Maple Valley track. 
+                      </div>
+
+                      <div
+                        className="flex items-center justify-center opacity-50 hover:opacity-100
+                                transition-opacity duration-300"
+                      >
+                        <a
+                          href="https://www.youtube.com/playlist?list=PLk1oqI8nVG6d-cgK75lRmwOZ_wK2n_0m_"
+                          className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-youtube text-indigo-500 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://forza.net/motorsport"
+                          className="flex rounded-full hover:bg-blue-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://www.instagram.com/forzamotorsport/"
+                          className="flex rounded-full hover:bg-orange-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                  <div className="flex flex-col">
+                    <a href="#" className="mx-auto">
+                      <img
+                        className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                        src="https://cdn.mos.cms.futurecdn.net/ZSv43nZjCeZ6RNFu6Vgibd-1200-80.jpg.webp"
+                      />
+                    </a>
+
+                    <div className="text-center mt-6">
+                      <h1 className="text-gray-900 text-xl font-bold mb-1">
+                      Final Fantasy 16 | Summer 2023
+                      </h1>
+
+                      <div className="text-gray-700 font-light mb-2">
+                      Final Fantasy 16 is coming, it's finally official. Set in the world of Valisthea, the land is studded with what's known as Mothercrystals. These crystal towers fill the world with aether, which gifts the people magicks. But, the world has also been infested with Blight, and deadly creatures known as Eikons that threaten to destroy the dominions. 
+                      </div>
+
+                      <div
+                        className="flex items-center justify-center opacity-50 hover:opacity-100
+                                transition-opacity duration-300"
+                      >
+                        <a
+                          href="https://www.youtube.com/playlist?list=PLBZbCppmka-Y1GGXbUECjndVH3X83t-hQ"
+                          className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-youtube text-indigo-700 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://na.finalfantasyxvi.com/"
+                          className="flex rounded-full hover:bg-blue-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://www.instagram.com/FinalFantasy/"
+                          className="flex rounded-full hover:bg-orange-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                  <div className="flex flex-col">
+                    <a href="#" className="mx-auto">
+                      <img
+                        className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                        src="https://cdn.mos.cms.futurecdn.net/stJZmTxkC4g7LjBMG49Ffc-1200-80.jpg.webp"
+                      />
+                    </a>
+
+                    <div className="text-center mt-6">
+                      <h1 className="text-gray-900 text-xl font-bold mb-1">
+                      Avatar: Frontiers of Pandora |  TBC 2023
+                      </h1>
+
+                      <div className="text-gray-700 font-light mb-2">
+                      The long-awaited Avatar game - now officially called Avatar: Frontiers of Pandora - finally got revealed at E3 2021, and it's in development at Massive Entertainment (in collaboration with Lightstorm Entertainment and Disney). The game will be a new standalone story where you plas as a Na'vi and journey across the Western Frontier, which is a brand new part of Pandora not seen in any media before. This is a first-person, action-adventure title, with a living and reactive world that's fighting against the formidable RDA forces. 
+                      </div>
+
+                      <div
+                        className="flex items-center justify-center opacity-50 hover:opacity-100
+                                transition-opacity duration-300"
+                      >
+                        <a
+                          href="https://www.youtube.com/c/MassiveEntertainmentUbisoft"
+                          className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-youtube text-indigo-700 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://www.ubisoft.com/en-us/game/avatar-frontiers-of-pandora"
+                          className="flex rounded-full hover:bg-blue-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://www.instagram.com/ubisoft/"
+                          className="flex rounded-full hover:bg-orange-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                  <div className="flex flex-col">
+                    <a href="#" className="mx-auto">
+                      <img
+                        className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                        src="https://cdn.mos.cms.futurecdn.net/Z6zDhChnBvVakQBHrDDLvm-1200-80.jpg.webp"
+                      />
+                    </a>
+
+                    <div className="text-center mt-6">
+                      <h1 className="text-gray-900 text-xl font-bold mb-1">
+                      Redfall | TBC 2023
+                      </h1>
+
+                      <div className="text-gray-700 font-light mb-2">
+                      Arkane Austin is making a brand new open-world, co-op shooter called Redfall. Set in the island town of Redfall, Massachusetts, the place is under siege by vampires who have blocked out the sun and complete access to the island. You're trapped with a handful of other survivors, who must team up and use innovative weaponry to try to become the ultimate vampire slayers. Think UV blasters and stake guns and you're getting there.  . 
+                      </div>
+
+                      <div
+                        className="flex items-center justify-center opacity-50 hover:opacity-100
+                                transition-opacity duration-300"
+                      >
+                        <a
+                          href="https://www.youtube.com/playlist?list=PLSHdOA4o6T_dZLZZSP-RV3HVzwxLSHZoM"
+                          className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-youtube text-indigo-700 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://bethesda.net/en/game/redfall"
+                          className="flex rounded-full hover:bg-blue-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
+                        </a>
+
+                        <a
+                          href="https://www.instagram.com/playRedfall/"
+                          className="flex rounded-full hover:bg-orange-50 h-10 w-10"
+                        >
+                          <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
     </>
   );
 }
