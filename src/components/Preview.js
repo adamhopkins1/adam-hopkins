@@ -118,17 +118,17 @@ function Preview() {
                     <a href="#" className="mx-auto">
                       <img
                         className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                        src="https://images.unsplash.com/photo-1634193295627-1cdddf751ebf?fit=clamp&w=400&h=400&q=80"
+                        src="https://cdn.mos.cms.futurecdn.net/CePBYTanFXvmHYh6FuV5tK-1200-80.jpg.webp"
                       />
                     </a>
 
                     <div className="text-center mt-6">
                       <h1 className="text-gray-900 text-xl font-bold mb-1">
-                        Kenji Milton
+                      Company of Heroes 3 | February 23, 2023
                       </h1>
 
                       <div className="text-gray-700 font-light mb-2">
-                        Team Memeber
+                      Nine years after the release of Company of Heroes 2, Relic Entertainment is set to drop a long-awaited sequel which is promising to be bigger and better in every respect. Company of Heroes 3 is promising to be a stellar package of action, tactics, and strategy, with the real-time battle system pushed to its limit to incorporate next-generation destructible environments. Company of Heroes 3 might well be the best strategy game of 2022, and we'll know for certain soon enough. 
                       </div>
 
                       <div
@@ -136,21 +136,21 @@ function Preview() {
                                 transition-opacity duration-300"
                       >
                         <a
-                          href="#"
+                          href="https://www.youtube.com/@CompanyOfHeroes"
                           className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
                         >
-                          <i className="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
+                          <i className="mdi mdi-youtube text-indigo-700 mx-auto mt-2"></i>
                         </a>
 
                         <a
-                          href="#"
+                          href="https://www.companyofheroes.com/"
                           className="flex rounded-full hover:bg-blue-50 h-10 w-10"
                         >
                           <i className="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
                         </a>
 
                         <a
-                          href="#"
+                          href="https://www.instagram.com/companyofheroes/"
                           className="flex rounded-full hover:bg-orange-50 h-10 w-10"
                         >
                           <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
@@ -165,17 +165,17 @@ function Preview() {
                     <a href="#" className="mx-auto">
                       <img
                         className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                        src="https://images.unsplash.com/photo-1635003913011-95971abba560?fit=clamp&w=400&h=400&q=80"
+                        src="https://cdn.mos.cms.futurecdn.net/Z6zDhChnBvVakQBHrDDLvm-1200-80.jpg.webp"
                       />
                     </a>
 
                     <div className="text-center mt-6">
                       <h1 className="text-gray-900 text-xl font-bold mb-1">
-                        Doesn't matter
+                      Suicide Squad: Kill the Justice League | Spring 2023
                       </h1>
 
                       <div className="text-gray-700 font-light mb-2">
-                        Will be fired
+                      Suicide Squad: Kill the Justice League sees you playing as our squad of chaotic semi-heroes. Squad up as Harley Quinn, King Shark, Deadshot, or Captain Boomerang, with bots or other players taking the role of the other four as you play. Set in the Batman: Arkham universe, Rocksteady has already said this is a continuation of the previous games, so prepare to see some existing threads and storylines come to fruition. 
                       </div>
 
                       <div
@@ -183,21 +183,21 @@ function Preview() {
                                 transition-opacity duration-300"
                       >
                         <a
-                          href="#"
+                          href="https://www.youtube.com/c/WBGAMES"
                           className="flex rounded-full hover:bg-indigo-50 h-10 w-10"
                         >
-                          <i className="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
+                          <i className="mdi mdi-youtube text-indigo-700 mx-auto mt-2"></i>
                         </a>
 
                         <a
-                          href="#"
+                          href="https://www.suicidesquadgame.com/en-us"
                           className="flex rounded-full hover:bg-blue-50 h-10 w-10"
                         >
                           <i className="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
                         </a>
 
                         <a
-                          href="#"
+                          href="https://www.instagram.com/suicidesquadrs/"
                           className="flex rounded-full hover:bg-orange-50 h-10 w-10"
                         >
                           <i className="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
