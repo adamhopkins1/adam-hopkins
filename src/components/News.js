@@ -278,7 +278,7 @@ function News() {
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
-                  On: 20 October 2019
+                  On: 14 November 2022
                 </span>
               </div>
             </div>
