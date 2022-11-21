@@ -358,7 +358,7 @@ function Preview() {
                     <a href="#" className="mx-auto">
                       <img
                         className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                        src="https://cdn.mos.cms.futurecdn.net/Z6zDhChnBvVakQBHrDDLvm-1200-80.jpg.webp"
+                        src="https://cdn.mos.cms.futurecdn.net/TukweTWwdrR48GB2AwzpcJ-1200-80.jpg.webp"
                       />
                     </a>
 
