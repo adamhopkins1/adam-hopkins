@@ -19,3 +19,16 @@ code {
 .carousel-dark .carousel-caption {
   color: #eee;
 }
+
+h3.text-3xl.font-semibold.text-gray-800.capitalize.lg\:text-4xl.dark\:text-white {
+  margin-right: 60rem;
+  margin-bottom: -3rem;
+}
+
+.grid.grid-cols.gap-8.mt-8.md\:mt-16.md\:grid-cols-2 {
+  padding-left: 2rem;
+}
+
+.grid.grid-cols.gap-8.mt-8.md\:mt-16.md\:grid-cols-2 {
+  margin-top: -2rem;
+}

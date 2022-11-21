@@ -65,7 +65,7 @@ function Carousel() {
               alt="Witcher 3 Geralt"
             />
             <div className="carousel-caption hidden md:block absolute text-center">
-              <h5 className="text-xl">The Witcher 3 is more than a revolutionary approach to open-world.</h5>
+              <h5 className="text-xl">The Witcher 3 is more than a revolutionary approach to open-world game design,narriative and environments.</h5>
               <p>
                 On many fronts The Witcher 3 represented a high point in game direction and storytelling in an open world environment I loved the witcher because of how Andjej Sarpachokow's world is fully embraced and fully realized becoming a living actualized piece of interactive fiction.
               </p>
