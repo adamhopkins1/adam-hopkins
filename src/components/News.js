@@ -270,10 +270,11 @@ function News() {
 
               <div className="flex flex-col justify-between py-6 lg:mx-6">
                 <a
-                  href="#"
+                  href="https://www.videogameschronicle.com/news/apples-ar-vr-headset-will-reportedly-include-a-3d-video-service-and-its-own-metaverse/"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  Apple's upcoming VR Headset will contain AR/VR hybrid tech to support Metaworlds and Augmented Reality. 
+                  Apple's upcoming VR Headset will contain AR/VR hybrid tech to support Metaworlds and Augmented Reality.
+                  By:Chris Scullion (Video Games Chronicle) 
                 </a>
 
                 <span className="text-sm text-gray-500 dark:text-gray-300">
