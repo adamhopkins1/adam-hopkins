@@ -212,6 +212,9 @@ function Review() {
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
               9.0
             </span>
+            </div>
+            </div>
+            </div>
 
             <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
               <a href="#">
@@ -321,11 +324,24 @@ function Review() {
                   <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
                     9.0
                   </span>
+                  </div>
+                  </div>
+                  </div>
 
+
+
+        <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+        <a href="#">
+          <img
+            class="p-8 rounded-t-lg"
+            src="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/GodofWarRagnarok.jpg"
+            alt="product image"
+          />
+        </a>
                   <div class="px-5 pb-5">
                     <a href="https://www.gamespot.com/reviews/god-of-war-ragnarok-review-blood-sweat-and-tyrs/1900-6417993/">
                       <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                        God Of War:Ragnarok
+                        God Of War: Ragnarok
                       </h5>
                     </a>
                     <div class="flex items-center mt-2.5 mb-5">
@@ -423,6 +439,9 @@ function Review() {
                       <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
                         9.0
                       </span>
+                      </div>
+                      </div>
+                      </div>
 
                       <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
                         <a href="#">
@@ -524,14 +543,6 @@ function Review() {
                           </div>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
@@ -1609,6 +1620,7 @@ function Review() {
         </div>
         </div>
         </div>
+
         
     </>
   );

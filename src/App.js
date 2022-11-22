@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Carousel from './components/Carousel';
 import News from './components/News';
 import Preview from './components/Preview';
+import Review from './components/Review';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Carousel />
       <News />
       <Preview />
+      <Review />
     </div>
     </>
   );
