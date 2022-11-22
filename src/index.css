@@ -38,5 +38,9 @@ h3.text-3xl.font-semibold.text-gray-800.capitalize.lg\:text-4xl.dark\:text-white
   margin-top: -3rem;
 }
 
+h1.text-gray-900.text-4xl.font-bold.mb-8 {
+  margin-left: 1rem;
+}
+
 
 
