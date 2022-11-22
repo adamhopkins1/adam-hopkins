@@ -42,5 +42,10 @@ h1.text-gray-900.text-4xl.font-bold.mb-8 {
   margin-left: 1rem;
 }
 
+.flex.flex-col.mt-8 {
+  margin-left: 29rem;
+  gap:1rem;
+}
+
 
 
