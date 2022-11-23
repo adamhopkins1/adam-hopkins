@@ -52,4 +52,17 @@ h1.text-gray-900.text-4xl.font-bold.mb-8 {
   margin-top: 4rem;
 }
 
+.pb-5 {
+  padding-bottom: 5.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.w-full.max-w-sm.bg-white.rounded-lg.shadow-md.dark\:bg-gray-800.dark\:border-gray-700 {
+  margin-left: auto;
+}
+
+.moving-box {
+  margin-right: 30rem;
+}
+
 
