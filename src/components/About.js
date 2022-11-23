@@ -26,19 +26,19 @@ const About = () => {
                             <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Richard</p>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                            <img className="md:block hidden" src="https://i.ibb.co/fGmxhVy/Rectangle-119.png" alt="Olivia featured Img" />
-                            <img className="md:hidden block" src="https://i.ibb.co/NrWKJ1M/Rectangle-119.png" alt="Olivia featured Img" />
-                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Olivia</p>
+                            <img className="md:block hidden" src="https://www.gamespot.com/a/uploads/square_small/43/434805/3829383-nti1mbr9_400x400.jpg" alt="Olivia featured Img" />
+                            <img className="md:hidden block" src="https://www.gamespot.com/a/uploads/square_small/43/434805/3829383-nti1mbr9_400x400.jpg" alt="Olivia featured Img" />
+                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Tamoor</p>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                            <img className="md:block hidden" src="https://i.ibb.co/Pc6XVVC/Rectangle-120.png" alt="Liam featued Img" />
-                            <img className="md:hidden block" src="https://i.ibb.co/C5MMBcs/Rectangle-120.png" alt="Liam featued Img" />
-                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Liam</p>
+                            <img className="md:block hidden" src="https://www.gamespot.com/a/uploads/square_small/1639/16394322/4022144-87ee8cb3-5a20-427b-a099-5e9403112e83.jpeg" alt="Liam featued Img" />
+                            <img className="md:hidden block" src="https://www.gamespot.com/a/uploads/square_small/1639/16394322/4022144-87ee8cb3-5a20-427b-a099-5e9403112e83.jpeg" alt="Liam featued Img" />
+                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Jessica</p>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
-                            <img className="md:block hidden" src="https://i.ibb.co/7nSJPXQ/Rectangle-121.png" alt="Elijah featured img" />
-                            <img className="md:hidden block" src="https://i.ibb.co/ThZBWxH/Rectangle-121.png" alt="Elijah featured img" />
-                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Elijah</p>
+                            <img className="md:block hidden" src="https://www.gamespot.com/a/uploads/square_small/1632/16320660/3808497-0aa4b17b-dfe8-488c-aeda-e5de1b6bdfb8.jpeg" alt="Elijah featured img" />
+                            <img className="md:hidden block" src="https://www.gamespot.com/a/uploads/square_small/1632/16320660/3808497-0aa4b17b-dfe8-488c-aeda-e5de1b6bdfb8.jpeg" alt="Elijah featured img" />
+                            <p className="font-medium text-xl leading-5 text-gray-800 mt-4">Mark</p>
                         </div>
                     </div>
                 </div>
