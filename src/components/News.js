@@ -25,7 +25,7 @@ function News() {
                   href="https://www.gamesindustry.biz/yuji-naka-arrested-for-suspected-insider-trading"
                   className="text-xl font-semibold text-gray-800 hover:underline dark:text-white "
                 >
-                  Breaking:Sonic the Hedgehog, Phantasy Star Online Creator Yuji Naka arrested for Insider Trading during Dragon Quest Mobile game development.
+                  BREAKING:Sonic the Hedgehog, Phantasy Star Online Creator Yuji Naka arrested for Insider Trading during Dragon Quest Mobile game development.
                   By:James Batchelor (GI.BIZ)
                 </a>
 
