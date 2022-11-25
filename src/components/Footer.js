@@ -133,7 +133,7 @@ function Footer() {
 
               <li>
                 <a
-                  href="/"
+                  href="https://github.com/adamhopkins1"
                   rel="noreferrer"
                   target="_blank"
                   class="text-teal-700 transition hover:text-teal-700/75"
@@ -156,7 +156,7 @@ function Footer() {
 
               <li>
                 <a
-                  href="/"
+                  href="https://www.vg247.com/"
                   rel="noreferrer"
                   target="_blank"
                   class="text-teal-700 transition hover:text-teal-700/75"
@@ -208,7 +208,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Employee Handbook
+                     Videos
                     </a>
                   </li>
 
@@ -217,7 +217,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Careers
+                      Join Us
                     </a>
                   </li>
                 </ul>
@@ -225,7 +225,7 @@ function Footer() {
             </div>
 
             <div class="text-center sm:text-left">
-              <p class="text-lg font-medium text-gray-900">Our Services</p>
+              <p class="text-lg font-medium text-gray-900">Our Portfilio Work</p>
 
               <nav aria-label="Footer Services Nav" class="mt-8">
                 <ul class="space-y-4 text-sm">
@@ -234,7 +234,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Web Development
+                      GameSpot
                     </a>
                   </li>
 
@@ -243,7 +243,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Web Design
+                      IGN
                     </a>
                   </li>
 
@@ -252,7 +252,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Marketing
+                      GI.BIZ
                     </a>
                   </li>
 
@@ -261,7 +261,7 @@ function Footer() {
                       class="text-gray-700 transition hover:text-gray-700/75"
                       href="/"
                     >
-                      Google Ads
+                     VGC
                     </a>
                   </li>
                 </ul>
@@ -334,7 +334,7 @@ function Footer() {
                       />
                     </svg>
 
-                    <span class="text-gray-700">john@doe.com</span>
+                    <span class="text-gray-700">tnbhotline@blitzer.com</span>
                   </a>
                 </li>
 
@@ -358,7 +358,7 @@ function Footer() {
                       />
                     </svg>
 
-                    <span class="text-gray-700">0123456789</span>
+                    <span class="text-gray-700">555-555-5555</span>
                   </a>
                 </li>
 
@@ -384,7 +384,7 @@ function Footer() {
                   </svg>
 
                   <address class="-mt-0.5 not-italic text-gray-700">
-                    213 Lane, London, United Kingdom
+                    123 Irvine Drive, Redwood City, California 039382
                   </address>
                 </li>
               </ul>
@@ -415,7 +415,7 @@ function Footer() {
             </p>
 
             <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-              &copy; 2022 Company Name
+              &copy; 2022 The New Blog
             </p>
           </div>
         </div>
