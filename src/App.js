@@ -6,6 +6,7 @@ import News from './components/News';
 import Preview from './components/Preview';
 import Review from './components/Review';
 import About from './components/About';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Preview />
       <Review />
       <About />
+      <Footer />
     </div>
     </>
   );
